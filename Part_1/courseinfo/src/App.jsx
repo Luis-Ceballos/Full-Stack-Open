@@ -1,3 +1,5 @@
+//Refactor the code so that it consists of three new components: Header, Content, and Total.
+
 const App = () => {
   const course = 'Half Stack application development'
   const part1 = 'Fundamentals of React'
